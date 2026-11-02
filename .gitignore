@@ -1,0 +1,9 @@
+build/
+dist/
+*.exe
+*.dll
+*.pdb
+*.lib
+*.log
+*.tmp
+pedalmerge.ini
